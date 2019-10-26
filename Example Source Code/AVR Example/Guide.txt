@@ -1,0 +1,9 @@
+~ Author   : Majid Derhambakhsh
+~ Created  : --/--/2019
+~ Support  : Majid.do16@gmail.com
+~ Github ID: Majid-Derhambakhsh
+
+- MCU                  : ATmega32a
+- Compiler             : CodeVisionAVR.
+- Library              : -
+- Programming language : C/C++
